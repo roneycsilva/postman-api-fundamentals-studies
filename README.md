@@ -1,6 +1,6 @@
 # 📘 Postman API Fundamentals — Study Portfolio
 
-[![Postman API Fundamentals](https://img.shields.io/badge/Postman-API%20Fundamentals-orange?logo=postman&logoColor=white)](https://badges.parchment.com/public/assertions/M9lfQaUARdeRR73bYCEE0w)
+![Postman API Fundamentals](https://img.shields.io/badge/Postman-API%20Fundamentals-orange?logo=postman&logoColor=white)
 
 Este repositório reúne meus **estudos práticos com Postman**, desenvolvidos durante a preparação para a certificação **Postman API Fundamentals**.
 
@@ -20,10 +20,11 @@ As collections documentam exercícios, testes e simulações de requisições RE
 ---
 
 ## 🏅 Certificação
-Concluí o curso **Postman API Fundamentals**, com emissão de **credencial oficial da Postman**.
+Concluí o curso **Postman API Fundamentals**, com emissão de **credencial oficial da Postman**
+no padrão **Open Badges (Badgr)**.
 
-🔗 Credencial oficial:  
-https://badges.parchment.com/public/assertions/M9lfQaUARdeRR73bYCEE0w
+🔗 **Visualizar credencial pública:**  
+https://badgr.com/public/assertions/M9lfQaUARdeRR73bYCEE0w
 
 ---
 
