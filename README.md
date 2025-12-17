@@ -1,6 +1,6 @@
 # 📘 Postman API Fundamentals — Study Portfolio
 
-![Postman API Fundamentals](https://img.shields.io/badge/Postman-API%20Fundamentals-orange?logo=postman&logoColor=white)
+[![Postman API Fundamentals](https://img.shields.io/badge/Postman-API%20Fundamentals-orange?logo=postman&logoColor=white)](https://www.credly.com/users/roney-cesar)
 
 Este repositório reúne meus **estudos práticos com Postman**, desenvolvidos durante a preparação para a certificação **Postman API Fundamentals**.
 
@@ -20,11 +20,10 @@ As collections documentam exercícios, testes e simulações de requisições RE
 ---
 
 ## 🏅 Certificação
-Concluí o curso **Postman API Fundamentals**, com emissão de **credencial oficial da Postman**
-no padrão **Open Badges (Badgr)**.
+Concluí o curso **Postman API Fundamentals**, com emissão de **badge oficial da Postman**, disponível publicamente no **Credly**.
 
-🔗 **Visualizar credencial pública:**  
-https://badgr.com/public/assertions/M9lfQaUARdeRR73bYCEE0w
+🔗 **Ver badges no Credly:**  
+https://www.credly.com/users/roney-cesar
 
 ---
 
